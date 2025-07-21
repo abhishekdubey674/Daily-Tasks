@@ -1,1 +1,81 @@
-15-07-2025 :- Today i have studied about Git.@@
+15-07-2025 :- Today i have studied about Git.
+
+
+
+where to use git =
+
+Git works on  computer, but  also use it with online services like GitHub, GitLab, or Bitbucket to share your work with others. These are called remote repositories.
+
+
+Reposatory - it is a folder where git track your projects 
+
+Clone - in it ake a copy of a remote Reposatory on your coputer 
+
+ Stage - Tell git which changes you want to save next
+
+ Commit - to commit first have to add then commit. It is a snapshot of your staged changes
+
+
+
+ 16-07-2025 :- Today I have studied about JavaScript
+
+What is JavaScript –
+JavaScript is a programming language that helps make websites interactive. It can be used to add things like buttons, animations, sliders, forms, and more.
+
+Where is JavaScript used –
+JavaScript is mainly used in web development. It runs inside the browser and allows us to build dynamic web pages. It is used with HTML and CSS.
+
+Basic Concepts I studied:
+
+Variables – Used to store data. Example:
+let name = "John";
+
+Data Types – Different types of values in JavaScript:
+- String: "Hello"
+- Number: 25
+- Boolean: true or false
+
+Functions – A block of code used to perform a task.
+Example:
+function greet() {
+   console.log("Hello!");
+}
+
+If-Else – Used for decision making.
+Example:
+if (age > 18) {
+   console.log("You are an adult");
+} else {
+   console.log("You are a minor");
+}
+
+Loops – Used to repeat code multiple times.
+Example:
+for (let i = 0; i < 5; i++) {
+   console.log(i);
+}
+
+Arrays – A list of items.
+Example:
+let fruits = ["apple", "banana", "orange"];
+
+Objects – Used to store data in key-value pairs.
+Example:
+let person = {
+   name: "Ali",
+   age: 22
+};
+
+JavaScript helps make websites smarter and user-friendly.
+
+
+ 17-07-2025:- Senior developers may seem like magicians, but their skills come from years of experience, learning from mistakes, and deep knowledge of tools and patterns. What appears effortless is actually built on persistence, memory, and a willingness to fail and improve. Their instincts often come from past hard lessons, not just talent. With time and dedication, any developer can reach that level — it’s not magic, it’s mastery.
+
+ 18-07-2025:- I read a little bit about API
+              Make a web page using html,css,javascript
+
+ 19-07-2025 :- Make drop down menu using Html & Css  
+               create a navigaion bar          
+
+21-07-2025 :- Today i read about the API and made a page in which the data is fetched from API
+
