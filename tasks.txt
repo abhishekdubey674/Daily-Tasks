@@ -79,3 +79,9 @@ JavaScript helps make websites smarter and user-friendly.
 
 21-07-2025 :- Today i read about the API and made a page in which the data is fetched from API
 
+22-07-2025 :- today i have read  an article "The Benefits of Sticking Around" - Spending years at one company helps you earn trust, understand the system deeply, and learn from both your successes and mistakes. It gives you the chance to work on impactful projects and see their long-term results. Although switching jobs can bring faster salary growth, staying put offers valuable, irreplaceable experience. Pick a stable company with a supportive team and meaningful work to truly grow.
+
+23-07-2025 :- today i have read an article " What We Mean When We Say “Software Engineer”"- Doug Durham talks about how the title "software engineer" is often misused, which leads to misunderstanding in the software field. He explains the difference between roles like developer, software engineer, senior engineer, and architect — each having unique duties and skill levels. Developers mainly write code, while engineers focus on structure, design, and teamwork. Senior engineers help guide others and handle complex problems, and architects plan the system's overall structure. Doug stresses the need for proper training and clear role definitions to handle future tech challenges and avoid confusion or mistakes in projects.
+
+24-07-2025 :- today i have learned about react such as components and hooks.
+
