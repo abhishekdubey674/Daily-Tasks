@@ -79,9 +79,45 @@ JavaScript helps make websites smarter and user-friendly.
 
 21-07-2025 :- Today i read about the API and made a page in which the data is fetched from API
 
-22-07-2025 :- today i have read  an article "The Benefits of Sticking Around" - Spending years at one company helps you earn trust, understand the system deeply, and learn from both your successes and mistakes. It gives you the chance to work on impactful projects and see their long-term results. Although switching jobs can bring faster salary growth, staying put offers valuable, irreplaceable experience. Pick a stable company with a supportive team and meaningful work to truly grow.
+22-07-2025 :- today i have read  an article "The Benefits of Sticking Around" - Spending years at one company helps you earn trust, understand the system deeply, and learn from both your successes and mistakes. 
+It gives you the chance to work on impactful projects and see their long-term results. 
+Although switching jobs can bring faster salary growth, staying put offers valuable, irreplaceable experience.
+ Pick a stable company with a supportive team and meaningful work to truly grow.
 
-23-07-2025 :- today i have read an article " What We Mean When We Say “Software Engineer”"- Doug Durham talks about how the title "software engineer" is often misused, which leads to misunderstanding in the software field. He explains the difference between roles like developer, software engineer, senior engineer, and architect — each having unique duties and skill levels. Developers mainly write code, while engineers focus on structure, design, and teamwork. Senior engineers help guide others and handle complex problems, and architects plan the system's overall structure. Doug stresses the need for proper training and clear role definitions to handle future tech challenges and avoid confusion or mistakes in projects.
+23-07-2025 :- today i have read an article " What We Mean When We Say “Software Engineer”"- Doug Durham talks about how the title "software engineer" is often misused, which leads to misunderstanding in the software field. 
+He explains the difference between roles like developer, software engineer, senior engineer, and architect — each having unique duties and skill levels. 
+Developers mainly write code, while engineers focus on structure, design, and teamwork.
+ Senior engineers help guide others and handle complex problems, and architects plan the system's overall structure. 
+ Doug stresses the need for proper training and clear role definitions to handle future tech challenges and avoid confusion or mistakes in projects.
 
 24-07-2025 :- today i have learned about react such as components and hooks.
 
+25-07-2025 :- The author uses a metaphor of picking up dog poop to encourage new developers to address neglected or annoying issues at work, like flaky tests.
+               Before fixing something, confirm it’s truly a problem and not already being handled.
+               Communicate your plan, follow through with the fix, and update the team on progress and completion.
+               Doing this builds trust and improves team culture—but don’t make a habit of being the only one who cleans up messes.
+
+28-07-2025 :- Before sending a difficult email, consider if a phone, video, or in-person conversation might be more effective.
+              Emails are better for complex issues, when a written record is needed, or when communication must be asynchronous.
+              Difficult emails include topics like raises, rejections, ending collaborations, or job transitions.
+              To write such emails, start with an outline, write outside your email client, and read it aloud for clarity and tone.
+              If possible, schedule the email to give yourself time for review and to feel more confident before sending.
+
+29-07-2025 :- Today we gone to school for Baseline Assessment
+
+30-07-2025 :- Today we gone to school for Baseline Assessment
+
+31-07-2025 :- When hiring developers, technical skills matter, but non-technical traits are just as important.
+              Key qualities to look for include teamwork, communication, adaptability, time discipline, critical thinking, attention to detail, and strong ethics.
+              These traits help ensure new hires collaborate effectively, grow with the team, and maintain high standards.
+              Balancing technical and soft skills leads to a stronger, more adaptable, and reliable engineering team
+
+1-08-2025 :- Developers can boost efficiency and reduce repetitive work through automation, saving time and mental effort.
+             By building small tools, you not only learn more about your language and tools, but also gain insight into your team’s processes and infrastructure.
+             Creating tools for others improves your user-focused thinking, requiring attention to usability, portability, and accessibility.
+             Automation is also a great way to experiment, try new technologies, and even have fun—so start small, stay curious, and keep building.
+
+4-08-2025 :- Aaron, a lifelong entrepreneur, reflects on his unexpected satisfaction working as an employee after selling his company.
+             Though still driven and competitive, he now enjoys a season of balance—focusing on family, personal growth, and impactful work without full responsibility.
+             Letting go of always needing to lead has brought peace and new opportunities for learning in a corporate setting.
+             He encourages new developers to adopt an abundance mindset and appreciate whatever professional season they find themselves in.
